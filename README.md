@@ -1,5 +1,5 @@
 # Étude du Réseau Neuronal Convolutif (CNN) pour la Reconnaissance de Chiffres MNIST
-Les réseaux neuronaux convolutifs (CNN) sont un type de réseau neuronal particulièrement efficace pour le traitement des données en forme de grille, telles que les images. Dans cette étude, nous allons explorer un CNN pour la reconnaissance de chiffres manuscrits en utilisant le célèbre ensemble de données MNIST. MNIST contient des images de chiffres manuscrits de 28x28 pixels, réparties en 10 classes (de 0 à 9).
+Les réseaux neuronaux convolutifs (CNN) sont un type de réseau neuronal particulièrement efficace pour le traitement des données en forme de grille, telles que les images. Dans cette étude, j'ai exploré un CNN pour la reconnaissance de chiffres manuscrits en utilisant le célèbre ensemble de données MNIST. MNIST contient des images de chiffres manuscrits de 28x28 pixels, réparties en 10 classes (de 0 à 9).
 
 # Description
  1. Chargement et Prétraitement des Données : Les données MNIST sont chargées et les étiquettes sont converties en une forme catégorielle.
